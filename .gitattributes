@@ -1,0 +1,5 @@
+* text=auto eol=lf
+*.png binary
+# Preserve the reference source byte-for-byte, including historical whitespace.
+reference/src.R -text -whitespace
+examples/sessionInfo.txt -whitespace

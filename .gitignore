@@ -1,0 +1,8 @@
+.Rlib/
+.Rhistory
+.RData
+.Rproj.user/
+outputs/
+*.RData
+*.rds
+*.zip
